@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidTools</string>
+    <string name="title_home">Home</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_information">information</string>
+    <string name="moniter">短信监听</string>
+    <string name="start">开机启动</string>
+    <string name="sim_1">SIM卡1</string>
+    <string name="sim_2">SIM卡2</string>
+    <string name="url">url</string>
+    <string name="btn_save">保存配置</string>
+    <string name="btn_sync">同步信息</string>
+</resources>
